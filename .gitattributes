@@ -1,0 +1,15 @@
+* text=auto
+
+*.rb text eol=lf
+*.gemspec text eol=lf
+Gemfile text eol=lf
+Gemfile.lock text eol=lf
+Rakefile text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary

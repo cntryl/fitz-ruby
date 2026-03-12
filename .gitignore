@@ -1,0 +1,10 @@
+/.bundle/
+/vendor/bundle/
+/log/
+/tmp/
+/coverage/
+/.yardoc/
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
